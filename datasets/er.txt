@@ -1,0 +1,9 @@
+UB 
+regarder un catalogue de produits regarder 3 5 ub qui sont représentatifs, combien de fois ces ub sont apparus dans les promotions
+
+agréger au niveau ub
+
+promo 1 = 1ere promo de l'année
+-62 
+-63 
+-
