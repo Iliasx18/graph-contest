@@ -7,3 +7,6 @@ The goal in this project is to compute a straight-line upward grid drawing which
 ![](graph.png)
 
 In our case, we will be trying to compute an upward drawing with as little crossings as possible. For that, we will first compute an initial layout, and then proceed to reduce the number of crossings on it, using two different heuristics : a spring embedding model and a local search heuristic. We will also need to define two functions in order to check the validity of a drawing and compute the number of crossings. Our coding is done in Java.
+
+By Ilias SAGHIR and Salaheddine ELKADIRI
+
